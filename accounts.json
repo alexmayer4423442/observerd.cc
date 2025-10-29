@@ -1,16 +1,12 @@
 [
   {
-    "username": "checker01",
-    "password": "MeinSicheresPasswortOderHash",
-    "discord_id": "123456789012345678",
-    "channel_id": "987654321098765432",
-    "webhook": "https://discord.com/api/webhooks/AAA/BBB"
+    "username": "Michi",
+    "password": "ADMIN",
+    "webhook": "https://discord.com/api/webhooks/1433055344812101735/NuHh9tqgtmOloL4Od9KNy2olJOtbqjlQdEcDaWNKK4VnFEsasXPfbj03yAoUI_TgRfiM"
   },
   {
-    "username": "Finn",
-    "password": "Finn123",
-    "discord_id": "1317463229114486864",
-    "channel_id": "1408406812339863552",
-    "webhook": "https://discord.com/api/webhooks/1431739125207138407/7EaB70qkWiWh8OkZkwCrrMIHCKh30XniILu3kQ7_wPDXOkGhioZeLLrhL3Aihlj2T1be"
+    "username": "player2",
+    "password": "passwort2",
+    "webhook": ""
   }
 ]
