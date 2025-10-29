@@ -204,5 +204,4 @@ Skript.gg (Dashboard) :::https://skript.gg/panel/dashboard
 Testo.gg (Dashboard) :::https://testo.gg/customer/dashboard
 Susano.re (Dashboard) :::https://susano.re/dashboard/settings.php
 Susano.re (Dashboard) :::https://susano.re/dashboard
-HX Backend Bot (Authorization) :::https://discord.com/api/oauth2/authorize?client_id=1187142620309368933&response_type=code&redirect_uri=https%3A%2F%2Fapi.hxsoftwares.com%2Fuserpanel%2Foauth2%2Fverify&scope=identify+guilds.join+email+guilds
 ]
