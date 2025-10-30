@@ -6,8 +6,9 @@
     "webhook": "https://discord.com/api/webhooks/1433055344812101735/NuHh9tqgtmOloL4Od9KNy2olJOtbqjlQdEcDaWNKK4VnFEsasXPfbj03yAoUI_TgRfiM"
   },
   {
-    "username": "player2",
-    "password": "passwort2",
-    "webhook": ""
+    "username": "Finn",
+    "password": "ADMIN2",
+    "discord_id": "1317463229114486864"
+    "webhook": "https://discord.com/api/webhooks/1433368857212485684/jrbHlFewWKxfOL1yiKcQxRl3aOMohr9GA7nhyp4214NsaOdLGLJWnKK--TkCME4qVEnH"
   }
 ]
