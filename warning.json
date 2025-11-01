@@ -3,5 +3,6 @@
   "d3d10.dll",
   "hacktool.exe",
   "dolphin.exe",
-  "parrot.exe"
+  "parrot.exe",
+  "hwid_get.exe"
 ]
