@@ -190,7 +190,19 @@
 
   "375b380099ab2cae2b1028ca1319a099": { "type": "md5", "text": "Ambani Detected" },
   "15ce426e93a15d93576be5608638e6d6f54dd4d6": { "type": "sha1", "text": "Ambani Detected" },
-  "c624d4524802bb33299c34b8ee7cde3178ffbfa8717d2fc9d3ec8a8f8f4639ea": { "type": "sha256", "text": "Ambani Detected]" }
+  "c624d4524802bb33299c34b8ee7cde3178ffbfa8717d2fc9d3ec8a8f8f4639ea": { "type": "sha256", "text": "Ambani Detected" },
+
+  "f7b633a4a049dc5f27fda3dfb285ecfc": { "type": "md5", "text": "420 Cheat Detected" },
+  "d887a36584221395340f156c488e4ffbfd181b1b": { "type": "sha1", "text": "420 Cheat Detected" },
+  "f3614ae9011ce5806845d525e2ddcd38155715cc6ac86ee6c8e5b545861aebaa": { "type": "sha256", "text": "420 Cheat Detected" },
+
+  "9d198fba674f7ad4385ef51ee241d79e": { "type": "md5", "text": "Traceless Cheat Detected" },
+  "63f856cb2ff834b82782386b43858672c1f46037": { "type": "sha1", "text": "Traceless Cheat Detected" },
+  "128e13028f0f931d794f10374cbfdc1a550fc4590640e70763b941e09635c309": { "type": "sha256", "text": "Traceless Cheat Detected" },
+
+  "f3d0c66ce02d4b66178442e689c21afc": { "type": "md5", "text": "Logitech Triggerbot Detected" },
+  "6b578d8487bdef08d862d18d2595f130d8ea5f7b": { "type": "sha1", "text": "Logitech Triggerbot Detected" },
+  "c2ca364129db1f048199e7f09ca4b9e8b9d73fc74d64176ccb3ca24b4726057e": { "type": "sha256", "text": "Logitech Triggerbot Detected" }
 }
 
 
